@@ -3,6 +3,8 @@ public class Department {
 //this is constructor
 public Department() {
 
+//Zero
+
 //First
 
 //Second
