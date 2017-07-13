@@ -4,7 +4,7 @@ public class Department {
 public Department() {
 }
 
-//Function called to add hr department
+//function called to add HR DEPT
 private void addHRDepartment(){
 }
 }
