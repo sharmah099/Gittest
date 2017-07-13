@@ -5,8 +5,6 @@ public Department() {
 
 //Zero
 
-//First
-
 //Second
 
 //Third
